@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hw9-stub-files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/graphJar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jamm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
